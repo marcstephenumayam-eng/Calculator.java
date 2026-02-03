@@ -26,6 +26,10 @@ public class Calculator {
                     System.out.println("Total: " + divide);
                 }
                 break;
+        case 3 :
+               int add = num1 + num2 ;
+            System.out.println("Total: " + add);
+            break;
 
             default:
                 System.out.println("INVALID INPUT");
