@@ -17,6 +17,9 @@ import java.util.Scanner;
         int mul = num1 * num2 ;
         System.out.println("Total: " + mul);
         break;
+      default : 
+        System.out.println("Invalid input");
+        break;
         }
       }
     }
