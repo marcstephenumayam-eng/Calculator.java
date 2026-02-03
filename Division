@@ -6,7 +6,7 @@ public class Calculator {
         Scanner sc = new Scanner(System.in);
 
         System.out.println("=== CALCULATOR ===");
-        System.out.println("1. Division");
+        System.out.println("2. Division");
         System.out.print("Enter: ");
         int input = sc.nextInt();
 
