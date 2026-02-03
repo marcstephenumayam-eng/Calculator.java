@@ -7,7 +7,6 @@ System.out.println("===CALCULATOR===");
   System.out.print("Enter number: ");
   int num2 = sc.nextInt();
 
-  int divide;
 
 case 2 :
     if (num2 == 0) {
