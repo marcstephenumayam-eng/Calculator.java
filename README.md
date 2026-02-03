@@ -6,6 +6,7 @@ public class Calculator {
     System.out.println("===CALCULATOR===");
      System.out.println("1. Multiplication");
      System.out.println("2. Division");
+     System.out.println("3. Addition");
       System.out.print("Enter: ");
       int input = sc.nextInt();
       System.out.print("Enter number: ");
