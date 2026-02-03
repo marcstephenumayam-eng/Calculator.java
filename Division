@@ -7,13 +7,14 @@ System.out.println("===CALCULATOR===");
   System.out.print("Enter number: ");
   int num2 = sc.nextInt();
 
+  int divide;
 
 case 2 :
     if (num2 == 0) {
         System.out.println("CANNOT DIVIDE BY 0")
     } else {
-    int add = num1 + num2 ;
-    System.out.println("Total: " + add);
+    int divide = num1 / num2 ;
+    System.out.println("Total: " + divide);
      }
       break;
 
